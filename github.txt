@@ -4,6 +4,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MHU-Helal/GitHub_Tutorial.git
 <!-- git push -u origin main -->
+ git push --set-upstream origin main
 
 
 
@@ -13,3 +14,7 @@ Steps to work with Github:
 02 When created repository in Github, we have to set the remote origin in our local directory.
 
 03 Add new modifications in git. (Git add .)
+04 Git commit -m "Github.txt file added where steps are discussed." (To record each updates of the project in github)
+05 Git push (To update the contents of the local directory with github repository)
+06 git push --set-upstream origin master (To set the git repository branch)
+07 
