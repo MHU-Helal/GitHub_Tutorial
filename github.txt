@@ -32,3 +32,5 @@ Steps to work with Github:
 11. git pull https://github.com/MHU-Helal/GitHub_Tutorial.git master (To pull from github repository with remote address and branch name)
 12 To push contents from a new local repository we have add the remote origin in the new folder.
 13. git remote add origin https://github.com/MHU-Helal/GitHub_Tutorial.git
+
+14. git clone https://github.com/MHU-Helal/Animation.git (to copy the entire repository including the project folder)
