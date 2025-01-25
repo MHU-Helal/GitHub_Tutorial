@@ -23,3 +23,4 @@ Steps to work with Github:
 05 Git push (To update the contents of the local directory with github repository)
 06 git push --set-upstream origin master (To set the git repository branch)
 07 Before pushing the contents we have to commit, then we have to apply git push to update the remote repository.
+08 git pull (To get the updates from github we have to use git pull command)
