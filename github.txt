@@ -29,3 +29,6 @@ Steps to work with Github:
 
 
 10 Changes from second computer.
+11. git pull https://github.com/MHU-Helal/GitHub_Tutorial.git master (To pull from github repository with remote address and branch name)
+12 To push contents from a new local repository we have add the remote origin in the new folder.
+13. git remote add origin https://github.com/MHU-Helal/GitHub_Tutorial.git
